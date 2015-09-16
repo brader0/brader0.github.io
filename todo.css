@@ -1,1 +1,16 @@
-Hi
+.done {
+  text-decoration: line-through;
+  }
+
+.high {
+  color: red;
+  }
+  
+.medium {
+  color: orange;
+  }
+  
+.low {
+  color: gray;
+  }
+  
