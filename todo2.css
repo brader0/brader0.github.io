@@ -1,15 +1,20 @@
 done {
+  background-color:;
+  color: blue;
   text-decoration: line-through;
   }
 
 high {
-  color: red;
+  background-color: red;
+  color: white;
   }
   
 medium {
-  color: orange;
+  background-color: orange;
+  color: brown;
   }
   
 low {
-  color: gray;
+  background-color: gray;
+  color: black;
   }
