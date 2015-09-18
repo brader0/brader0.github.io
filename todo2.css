@@ -1,20 +1,20 @@
-.done {
+done {
   background-color: black;
   color: #00FFFF;
   text-decoration: line-through;
   }
 
-.high {
+high {
   background-color: red;
   color: white;
   }
   
-.medium {
+medium {
   background-color: orange;
   color: #A52A2A;
   }
   
-.low {
+low {
   background-color: gray;
   color: black;
   }
