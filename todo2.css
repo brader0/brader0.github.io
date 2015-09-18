@@ -2,17 +2,17 @@ h1 {
   color: white;
 }
 
-.high {
+.high li {
   background-color: red;
   color: white;
 }
 
-.medium {
+.medium li {
   background-color: orange;
   color:#A52A2A;
 }
 
-.low {
+.low li {
   background: black;
   color: #00FFFF;
 }
