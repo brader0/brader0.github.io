@@ -4,17 +4,17 @@ done h1 {
   text-decoration: line-through;
   }
 
-high {
+high h1 {
   background-color: red;
   color: white;
   }
   
-medium {
+medium h1 {
   background-color: orange;
   color: #A52A2A;
   }
   
-low {
+low h1 {
   background-color: gray;
   color: black;
   }
