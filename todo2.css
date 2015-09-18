@@ -1,20 +1,18 @@
-done h1 {
-  background-color: black;
-  color: #00FFFF;
-  text-decoration: line-through;
-  }
+h1 {
+  color: white;
+}
 
-high h1 {
+.high {
   background-color: red;
   color: white;
-  }
-  
-medium h1 {
+}
+
+.medium {
   background-color: orange;
-  color: #A52A2A;
-  }
-  
-low h1 {
-  background-color: gray;
-  color: black;
-  }
+  color:#A52A2A;
+}
+
+.low {
+  background: black;
+  color: #00FFFF;
+}
