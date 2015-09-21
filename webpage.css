@@ -1,3 +1,7 @@
+header {
+  position: fixed;
+}
+
 footer {
   background-color: blue;
   width: 300px;
