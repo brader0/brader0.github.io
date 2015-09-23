@@ -11,7 +11,11 @@ nav {
   position: relative;
   top:;
   left:;
-  width: 10%;
+  height: 100%;
+}
+
+title {
+  text-align: center;
 }
 
 footer {
