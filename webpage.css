@@ -1,5 +1,5 @@
 header {
-  position: fixed;
+  position: absolute;
   top: 0px;
   left: 0px;
   background-color: blue;
@@ -19,9 +19,8 @@ section#right {
 
 nav {
   position: relative;
-  top:;
-  left:;
-  height: 100%;
+  top:5px;
+  width: 100%;
 }
 
 title1 {
