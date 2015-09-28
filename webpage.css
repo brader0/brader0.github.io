@@ -15,6 +15,7 @@ nav {
 }
 
 section#left {
+  padding: 50px;
   float: left;
   width: 50%;
 }
