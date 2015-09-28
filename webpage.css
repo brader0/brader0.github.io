@@ -21,6 +21,7 @@ section#left {
 }
 
 section#right {
+  padding: 50px;
   float: right;
   width: 50%;
 }
