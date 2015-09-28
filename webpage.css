@@ -24,16 +24,16 @@ nav {
 }
 
 section#left {
-  top: 150px;
+  position: relative;
   float: left;
   left: 100px;
   width: 50%;
 }
 
 section#right {
-  top: 150px;
-  right: 100px;
+  position: relative;
   float: right;
+  right: 100px;
   width: 50%;
 }
 
