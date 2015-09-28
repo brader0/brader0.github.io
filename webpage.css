@@ -20,11 +20,15 @@ section#right {
   width: 50%;
 }
 
-nav {
-  position: relative;
-  top:100px;
-  width: 100%;
+nav#right {
+  float: right;
 }
+
+nav#left {
+  float: left;
+}
+
+nav#
 
 title1 {
   text-align: center;
