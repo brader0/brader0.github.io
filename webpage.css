@@ -43,10 +43,10 @@ title1 {
 
 footer {
   background-color: blue;
+  position: relative;
   width: 100%;
-  top: 0px;
-  left: 0px;
   text-align: center;
+  
 }
 
 
