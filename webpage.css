@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+nav {
+  padding: 100px;
+}
+
 section#left {
   float: left;
   left: 100px;
@@ -28,7 +32,9 @@ nav#left {
   float: left;
 }
 
-nav#
+nav#center{
+  
+}
 
 title1 {
   text-align: center;
