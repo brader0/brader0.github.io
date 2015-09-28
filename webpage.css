@@ -11,6 +11,7 @@ header {
 nav {
   top: 100px;
   height: 50px;
+  background-color: blue;
 }
 
 section#left {
