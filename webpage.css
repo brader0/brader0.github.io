@@ -15,10 +15,12 @@ nav {
 
 section#left {
   float: left;
+  width: 50%;
 }
 
 section#right {
   float: right;
+  width: 50%;
 }
 
 
