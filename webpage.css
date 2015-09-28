@@ -23,24 +23,6 @@ nav {
   margin: -20px;
 }
 
-section#left {
-  position: relative;
-  float: left;
-  left: 100px;
-  width: 50%;
-}
-
-section#right {
-  position: relative;
-  float: right;
-  right: 100px;
-  width: 50%;
-}
-
-title1 {
-  text-align: center;
-}
-
 footer {
   background-color: blue;
   position: relative;
