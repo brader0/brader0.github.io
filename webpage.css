@@ -1,5 +1,6 @@
 header {
   background-color: blue;
+  padding: auto;
   position: static;
   height: 100px;
   width: 100%;
