@@ -7,3 +7,15 @@ header {
   width: 100%;
   text-align: center;
 }
+
+nav {
+  background-color: gray;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  height: 25px;
+  width: 100%;
+}
+
+nav li {
+  display: inline;
+}
