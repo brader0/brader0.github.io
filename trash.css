@@ -25,11 +25,18 @@ section {
   background-color: blue;
   float: left;
   width: 50%;
-  height: 500px;
+  height: 250px;
 }
 
 aside {
   float: right;
   width: 50%;
   height: 500px;
+}
+
+article {
+  background-color: blue;
+  float: left;
+  width: 50%;
+  height: 250;
 }
