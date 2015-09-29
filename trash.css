@@ -45,3 +45,8 @@ article {
   width: 50%;
   height: 250;
 }
+
+footer {
+  background-color: gray;
+  width: 100%;
+}
