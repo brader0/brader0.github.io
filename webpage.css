@@ -15,13 +15,11 @@ nav {
 }
 
 section#left {
-  padding: 50px;
   float: left;
   width: 50%;
 }
 
 section#right {
-  padding: 25px;
   float: right;
   width: 50%;
 }
