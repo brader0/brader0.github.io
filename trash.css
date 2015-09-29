@@ -30,6 +30,7 @@ section {
 
 aside {
   background-color: blue;
+  padding: auto;
   float: right;
   width: 50%;
   height: 500px;
