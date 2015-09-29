@@ -27,21 +27,21 @@ sideline {
   background-color:#FE6426;
   color:#444746;
   height:600px;
-  width:100px;
+  width:25%;
   float:left;
   padding:5px; 
 }
 section {
   background-color: blue;
   float: left;
-  width: 50%;
+  width: 37.5%;
   height: 250px;
 }
 
 aside {
   background-color: blue;
   float: right;
-  width: 50%;
+  width: 37.5%;
   height: 500px;
 }
 
