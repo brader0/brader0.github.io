@@ -31,10 +31,11 @@ sideline {
   float:left;
   padding:5px; 
 }
+
 section {
   background-color: blue;
   float: left;
-  width: 37.5%;
+  width: 45%;
   height: 250px;
 }
 
