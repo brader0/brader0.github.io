@@ -20,3 +20,10 @@ nav {
 nav li {
   display: inline;
 }
+
+section {
+  background-color: blue;
+  float: left;
+  width: 50%;
+  height: 500px;
+}
