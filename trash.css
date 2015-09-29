@@ -35,14 +35,14 @@ sideline {
 section {
   background-color: blue;
   float: left;
-  width: 45%;
+  width: 42.5%;
   height: 250px;
 }
 
 aside {
   background-color: blue;
   float: right;
-  width: 45%;
+  width: 42.5%;
   height: 500px;
 }
 
