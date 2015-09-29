@@ -27,3 +27,9 @@ section {
   width: 50%;
   height: 500px;
 }
+
+aside {
+  float: right;
+  width: 50%;
+  height: 500px;
+}
