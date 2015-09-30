@@ -8,3 +8,9 @@ header {
   width: 100%;
   text-align: center;
 }
+
+Aside {
+  color: gray;
+  height: 600px;
+  width: 10%;
+}
