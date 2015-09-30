@@ -10,7 +10,7 @@ header {
 }
 
 Aside {
-  color: gray;
+  background-color: gray;
   height: 600px;
   width: 10%;
 }
