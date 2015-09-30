@@ -1,33 +1,3 @@
-header {
-  position: fixed;
-  background-color: blue;
-  top: 0px;
-  left: 0px;
-  width: 100%;
-  height: 50px;
-  text-align: center;
-}
-
-nav {
-  background-color: gray;
-  margin-top: 50px;
-  margin-bottom: 0px;
-  height: 25px;
-  width: 100%;
-}
-
-nav li {
-  display: inline;
-}
-
-section {
-  float: left;
-  width: 50%;
-  height: 500px;
-}
-
-aside {
-  float: right;
-  width: 50%;
-  height: 500px;
+body {
+  background-color: #0CF0DD;
 }
