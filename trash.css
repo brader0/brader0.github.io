@@ -60,6 +60,7 @@ article {
 footer {
   background-color: gray;
   color: white;
+  height: 25px;
   width: 100%;
   text-align: center;
 }
