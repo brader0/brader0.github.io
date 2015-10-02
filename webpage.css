@@ -1,17 +1,58 @@
 body {
-  background-color: #0CF0DD;
+  background-color: blue;
 }
 
 header {
   position: fixed;
-  height: 100px;
+  background-color: blue;
+  color: white;
+  top: 0px;
+  left: 0px;
+  height:100px;
   width: 100%;
   text-align: center;
 }
 
-aside {
+nav {
   background-color: gray;
   margin-top: 100px;
-  height: 600px;
-  width: 10%;
+  height: 25px;
+  width: 100%;
+}
+
+nav li {
+  display: inline;
+}
+
+sideline {
+  background-color:#FE6426;
+  color:#444746;
+  float: left;
+  height:500px;
+  width:10%;
+}
+
+section {
+  background-color: blue;
+  float: left;
+  width: 45%;
+  height: 250px;
+}
+
+aside {
+  background-color: blue;
+  float: right;
+  width: 44%;
+  height: 500px;
+}
+
+aside.img {
+  magin: auto;
+}
+
+article {
+  background-color: blue;
+  float: left;
+  width: 45%;
+  height: 250;
 }
