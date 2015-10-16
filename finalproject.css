@@ -3,5 +3,7 @@ header {
 }
 
 section {
-  bacground-color: blue;
+  width: 100%;
+  text-align: center;
+  background-color: blue;
 }
