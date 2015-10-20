@@ -13,9 +13,9 @@
     <section>
       <input type="text" id="theTask">
       <select id="priority">
-        <option id="high">High</option>
-        <option id="medium">Medium</option>
-        <option is="low">Low</option>
+        <option>High</option>
+        <option>Medium</option>
+        <option>Low</option>
       </select>
       <button onclick="addTask();">New Task</button>
     </section>
@@ -23,11 +23,14 @@
       addTask = function() {
         var uL
         var task
+        var color
         uL = document.querySelector('#theList');
         task = document.querySelector('#theTask').value;
+        color = document.querySelector('priority').value;
         checkBox = document.createElement('input');
         checkBox.type = 'checkbox';
         newLi = document.createElement('li');
+        newLi.classname = color;
         liContents = document.createTextNode(task);
         newLi.appendChild(checkBox);
         newLi.appendChild(liContents);
