@@ -8,15 +8,15 @@ article {
   height: 500px;
 }
 
-#high {
+.high {
   color: red;
 }
 
-#medium {
+.medium {
   color: orange;
 }
 
-#low {
+.low {
   color: gray;
 }
 
