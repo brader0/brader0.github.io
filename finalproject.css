@@ -7,6 +7,19 @@ article {
   width 100%
   height: 500px;
 }
+
+#high {
+  color: red;
+}
+
+#medium {
+  color: orange;
+}
+
+#low {
+  color: gray;
+}
+
 ul {
   list-style-type:none;
 }
