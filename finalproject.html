@@ -2,7 +2,6 @@
   <head>
     <title>To-Do List</title>
     <link rel=stylesheet href=finalproject.css type=text/css />
-    <script type="text/javascript" href=finalproject.j></script>
   </head>
   <body>
     <header>
@@ -20,5 +19,20 @@
       </select>
       <button onclick="addTask();">New Task</button>
     </section>
+    <script>
+      addTask = function() {
+        var uL
+        var task
+        task = document.querySelector('#theTask.value');
+        uL = document.querySelector('#theList');
+        newLi = document.createElement('li');
+        liContents = document.createTextNode(task);
+        newLi.appendChild(liContents);
+        checkBox = document.createElement('input');
+        checkBox.type = checkbox
+        newLi.appendChild(checkBox);
+        uL.appendChild(newLi);
+      }
+    </script>
   </body>
 </html>
