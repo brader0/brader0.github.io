@@ -4,7 +4,8 @@ header {
 
 article {
   background-color: blue;
-  margin: 25%;
+  margin-left: 25%;
+  margin-right: 25%;
   height: 500px;
 }
 
