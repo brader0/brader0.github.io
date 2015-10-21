@@ -11,6 +11,10 @@ article {
   font-size: 18pt;
 }
 
+label {
+  color: white;
+}
+
 .High {
   color: red;
 }
