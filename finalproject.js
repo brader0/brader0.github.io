@@ -4,7 +4,7 @@ doneTask = function() {
   } else {
     this.parentNode.classList.remove("done");
   }
-  localSave("brader0.github.io");
+  localSave("theList");
 }
 
 addTask = function() {
@@ -23,5 +23,5 @@ addTask = function() {
   newLi.appendChild(checkBox);
   newLi.appendChild(liContents);
   uL.appendChild(newLi);
-  localSave("brader0.github.io");
+  localSave("theList");
 }
