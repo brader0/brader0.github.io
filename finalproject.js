@@ -11,7 +11,6 @@ addTask = function() {
   color = document.querySelector('#priority').value;
   checkBox = document.createElement('input');
   checkBox.type = 'checkbox';
-  checkBox.doneTask();
   newLi = document.createElement('li');
   newLi.className = color;
   liContents = document.createTextNode(task);
