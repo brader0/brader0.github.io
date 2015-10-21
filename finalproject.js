@@ -4,6 +4,7 @@ doneTask = function() {
   } else {
     this.parentNode.classList.remove("done");
   }
+  localSave("brader0.github.io");
 }
 
 addTask = function() {
