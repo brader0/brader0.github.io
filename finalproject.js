@@ -1,8 +1,8 @@
 doneTask = function() {
   if (this.checked) {
-    this.parentNode.classlist.add("done");
+    this.parentNode.classList.add("done");
   } else {
-    this.parentNode.classlist.remove("done");
+    this.parentNode.classList.remove("done");
   }
 }
 
