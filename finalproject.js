@@ -1,5 +1,9 @@
 doneTask = function() {
-  this.parentNode.classlist.add("done");
+  if (this.checked) {
+    this.parentNode.classlist.add("done");
+  } else {
+    this.parentNode.classlist.remove("done");
+  }
 }
 
 addTask = function() {
