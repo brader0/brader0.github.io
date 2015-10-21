@@ -23,5 +23,5 @@ addTask = function() {
   newLi.appendChild(checkBox);
   newLi.appendChild(liContents);
   uL.appendChild(newLi);
-  localSave("brader0.github.io")
+  localSave("brader0.github.io");
 }
