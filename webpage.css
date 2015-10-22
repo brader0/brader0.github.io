@@ -11,8 +11,6 @@ header {
 nav {
   position: relative;
   top: 70px;
-  margin-top: 20px;
-  margin-bottom: 0px;
   background-color: green;
 }
 nav li {
