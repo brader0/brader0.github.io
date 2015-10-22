@@ -18,7 +18,7 @@ nav li {
   display: inline;
 }
 section {
-  position: relative;
+  float: right;
   top: 85px;
   width: 20%;
   height: 500px;
@@ -36,5 +36,4 @@ footer {
 }
 body {
   background-color: black;
-  margin: 0px;
 }
