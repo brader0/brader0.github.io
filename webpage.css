@@ -27,7 +27,7 @@ section {
 }
 aside {
   float: left;
-  height: 120px;
+  top: 120px;
   width: 80%;
   height: 500px;
   background-color: red;
