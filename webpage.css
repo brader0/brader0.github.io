@@ -9,9 +9,9 @@ header {
 }
 
 nav {
-  position: relative;
+  position: absolute;
   top: 100px;
-  height: 20px;
+  height: 25px;
   background-color: #00FFFF;
 }
 nav li {
