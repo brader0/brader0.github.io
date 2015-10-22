@@ -19,10 +19,10 @@ nav li {
 }
 section {
   position: relative;
-  top: 120px;
+  top: 100px;
   width: 20%;
   height: 500px;
-  background-color: #bbbbbb;
+  background-color: #00FFFF;
   color: white;
 }
 aside {
