@@ -10,7 +10,8 @@ header {
 
 nav {
   position: relative;
-  top: 70px;
+  top: 100px;
+  height: 20px;
   background-color: green;
 }
 nav li {
@@ -18,6 +19,7 @@ nav li {
 }
 section {
   float: left;
+  top: 100px;
   width: 20%;
   height: 500px;
   background-color: blue;
@@ -25,6 +27,7 @@ section {
 }
 aside {
   float: left;
+  height: 100px;
   width: 80%;
   height: 500px;
   background-color: red;
