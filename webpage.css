@@ -18,13 +18,14 @@ nav li {
   display: inline;
 }
 section {
-  float: right;
+  position: relative;
   top: 85px;
   width: 20%;
   height: 500px;
   background-color: #00FFFF;
 }
 aside {
+  float: right;
   top: 85px;
   width: 80%;
   height: 500px;
