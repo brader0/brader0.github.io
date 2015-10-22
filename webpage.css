@@ -22,11 +22,10 @@ section {
   top: 85px;
   width: 20%;
   height: 500px;
-  background-color: blue;
+  background-color: #00FFFF;
 }
 aside {
-  float: left;
-  top: 120px;
+  top: 85px;
   width: 80%;
   height: 500px;
   background-color: red;
