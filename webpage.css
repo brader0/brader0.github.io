@@ -18,11 +18,11 @@ nav li {
   display: inline;
 }
 section {
-  float: left;
+  position: relative;
   top: 120px;
   width: 20%;
   height: 500px;
-  background-color: blue;
+  background-color: #bbbbbb;
   color: white;
 }
 aside {
