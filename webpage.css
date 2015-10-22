@@ -2,7 +2,16 @@ header {
  text-align: center;
  background-color: #bbbbbb;
  width: 100%;
- margin: 20px;
  height: 100px;
+}
+
+nav {
+ margin-top: 20px;
+ margin-bottom: 20px;
+ background-color: #00FFFF;
+}
+
+nav li {
+ display: inline;
 }
 
