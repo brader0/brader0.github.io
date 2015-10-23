@@ -24,6 +24,8 @@ section {
  height: 500px;
 }
 
-aside { 
+aside {
+ position: relative;
  background-color: #bbbbbb;
+ height: 500px;
 }
