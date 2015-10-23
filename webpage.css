@@ -1,4 +1,5 @@
 header {
+ position: fixed;
  text-align: center;
  background-color: #bbbbbb;
  padding-top: 20px;
