@@ -12,7 +12,7 @@ nav {
  padding-top: 5px;
  padding-bottom: 5px;
  background-color: #00FFFF;
- top: 108px;
+ top: 148px;
 }
 
 nav li {
@@ -21,6 +21,7 @@ nav li {
 
 section {
  background-color: #00FFFF;
+ top: 158px;
  width: 15%;
  height: 500px;
 }
